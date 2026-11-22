@@ -12,6 +12,7 @@ Current version is [zapret2](https://github.com/bol-van/zapret2).
 # Multilanguage/Мультиязычный README
 ___
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bol-van/zapret/tree/master/docs/readme.en.md)
+[![pt-BR](https://img.shields.io/badge/lang-pt--BR-blue.svg)](./readme.pt-br.md)
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/bol-van/zapret/tree/master/docs/readme.md)
 
 ***
